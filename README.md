@@ -1,1 +1,2 @@
-# la_crime_project
+# project-one
+UCSD data bootcamp class project
