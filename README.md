@@ -5,3 +5,5 @@ For this project, CSVs of crime data and homelessness data in Los Angeles from 2
 ![image](https://user-images.githubusercontent.com/65049133/121821216-8ff96880-cc4c-11eb-87cf-bb996c7ec215.png)
 
 Count of each crime type per year bar graph
+
+Collaboration with Ben Galde, Tolga Caglar
